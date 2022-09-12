@@ -2,7 +2,7 @@
 
 Name:           bashtop
 Version:        0.8.14
-Release:        1%{?dist}
+Release:        1
 Summary:        Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
 License:        Apache v2
 URL:            https://github.com/aristocratos/%{name}
